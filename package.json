@@ -3,7 +3,7 @@
   "_id": "react-native-webview@10.10.2",
   "_inBundle": false,
   "_integrity": "sha512-98Dh7q1gEflicFZ8KNL3nK5XRjx50OZXqw87jHofVjKfjbK0LKmvI5X8ymgUMGg61JVgI3AF+g8qpDvqjgQsfg==",
-  "_location": "/react-native-webview",
+  "_location": "/@ahmedjabir/react-native-webview",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
@@ -93,13 +93,13 @@
   "homepage": "https://github.com/react-native-community/react-native-webview#readme",
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-webview",
+  "name": "@ahmedjabir/react-native-webview",
   "peerDependencies": {
     "react-native": ">=0.60 <0.64"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/react-native-webview.git"
+    "url": "git+https://github.com/ahmedjabir/react-native-webview.git"
   },
   "rn-docs": {
     "title": "Webview",
